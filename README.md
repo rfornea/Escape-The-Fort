@@ -2,7 +2,9 @@
 Escape the Fort (text-based adventure game)
 
 
-This is a text-based adventure game that runs in the command prompt.  In Escape the Fort, you've been captured by trolls and you wake up to find yourself trapped in their fort.  At the start of the game you have a canteen with a 15 day supply of water.  All the doors throughut the fort are boarded up, and breaking through each of these boarded up doors will take you one full day, meaning your water supply will go down by 1 day for each new room you break into.  
+This is a text-based adventure game that runs in the command prompt.  This repository contains a .jar file and all the of the .java and .class files are in a zipped file.  
+
+In Escape the Fort, you've been captured by trolls and you wake up to find yourself trapped in their fort.  At the start of the game you have a canteen with a 15 day supply of water.  All the doors throughut the fort are boarded up, and breaking through each of these boarded up doors will take you one full day, meaning your water supply will go down by 1 day for each new room you break into.  
 
 Unfortunately, the main exit door of the fort is bricked-up, rather than boarded up.  It will take 16 days to break through it.  But you only have 15 days worth of water!  This means you will have to find an additional supply of water in the fortress in order to possibly win the game.  
 
